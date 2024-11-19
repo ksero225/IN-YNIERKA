@@ -1,0 +1,21 @@
+/* .bg-lightblue {
+  background-color: #dbe9ff;
+} */
+
+.offer-row {
+  background-color: #dbe9ff;
+  transition: all 0.3s;   
+}
+
+.offer-row:hover {
+  background-color: #a9c8ff;
+  -webkit-box-shadow: 2px 2px 12px 0px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 2px 2px 12px 0px rgba(66, 68, 90, 1);
+  box-shadow: 2px 2px 12px 0px rgba(66, 68, 90, 1);
+  border-radius: 10px;
+  border: solid 1px black !important;
+}
+
+.text-success {
+  font-size: 1.3em;
+}
